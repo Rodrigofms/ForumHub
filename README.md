@@ -9,6 +9,7 @@
 - **Auth0**
 - **OpenAPI (Swagger)**
 - **Mysql**
+- **Railway**
 
 ## Descrição do projeto
 
